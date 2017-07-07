@@ -9,14 +9,14 @@
 " @author Zeno Rocha <hi@zenorocha.com>
 
 " Color palette
-let s:gui01 = "#44475a"
-let s:gui02 = "#5f6a8e"
-let s:gui03 = "#ffb86c"
-let s:gui04 = "#63c3f9"
-let s:gui05 = "#ee5f5a"
-let s:gui06 = "#f1fa8c"
-let s:gui07 = "#8becb3"
-let s:gui08 = "#63c3f9"
+let s:gui01 = "#283238"
+let s:gui02 = "#474c4e"
+let s:gui03 = "#EEC4A6"
+let s:gui04 = "#A6D5ED"
+let s:gui05 = "#EDA8A7"
+let s:gui06 = "#ECE1A5"
+let s:gui07 = "#A6EDC9"
+let s:gui08 = "#B3A6EE"
 let s:cterm01 = "236"
 let s:cterm02 = "61"
 let s:cterm03 = "215"
